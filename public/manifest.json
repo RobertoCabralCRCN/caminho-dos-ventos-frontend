@@ -1,0 +1,30 @@
+{
+  "short_name": "Caminho dos Ventos",
+  "name": "Caminho dos Ventos - Loja Espiritual",
+  "description": "Loja espiritual especializada em guias, brajás e produtos sagrados da Umbanda",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "logo192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "logo512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#2563EB",
+  "background_color": "#93C5FD",
+  "orientation": "portrait-primary",
+  "categories": ["shopping", "lifestyle", "spirituality"],
+  "lang": "pt-BR",
+  "dir": "ltr"
+}
