@@ -105,3 +105,11 @@ typings/
 
 # OS
 Thumbs.db
+
+# Arquivos temporários e de teste
+nul
+*.tmp
+*.temp
+
+# Arquivos de documentação de teste
+API_CURL_TESTS.md
